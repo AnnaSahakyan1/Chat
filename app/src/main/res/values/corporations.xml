@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="corporations">
+        <item>Gexam</item>
+        <item>Tesla</item>
+        <item>Google</item>
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>LG</item>
+        <item>Hisense</item>
+    </string-array>
+</resources>
